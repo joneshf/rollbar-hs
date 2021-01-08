@@ -1,0 +1,8 @@
+resolver: lts-16.28
+
+packages:
+  - .
+
+extra-deps:
+  - git: https://github.com/parsonsmatt/hspec-golden-aeson
+    commit: bcfb8946b3e5f7d297e0a624544e0ea9e7da0d7e

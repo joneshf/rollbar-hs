@@ -8,11 +8,11 @@
                     "version": "0.3.1.0"
                 },
                 "platform": "linux",
-                "environment": "HB\u0010BuQ\u0017\u00064d*HE\u000b9\u0019\u001b*\u000e\u0013",
+                "environment": "tZ{\u0002^|LLA\u0005;MLB16G\u0017\u0016\u0014",
                 "body": {
                     "message": {
                         "data": [],
-                        "body": ""
+                        "body": "n\u001ci\u0012\u001a{Ap\u000e\u001d\n)mxq.\r]UL<xW(JbK$\u0018c"
                     }
                 },
                 "language": "haskell",
@@ -27,17 +27,17 @@
                     "version": "0.3.1.0"
                 },
                 "platform": "linux",
-                "environment": "\u001dGesd@(b)ppm/Z",
+                "environment": "\u000bs_W",
                 "body": {
                     "message": {
                         "data": [],
-                        "body": ")\u0011"
+                        "body": "DL%RTxnR( wAB6\u001a\u001c"
                     }
                 },
                 "language": "haskell",
-                "level": "debug"
+                "level": "error"
             },
-            "access_token": "\u0018NYo"
+            "access_token": "_\u0001{y"
         },
         {
             "data": {
@@ -46,7 +46,7 @@
                     "version": "0.3.1.0"
                 },
                 "platform": "linux",
-                "environment": "/dt",
+                "environment": "J?\u000f4-w0q\u001d.xssc'VbMIZ~\u001aHer",
                 "body": {
                     "message": {
                         "data": [],
@@ -54,9 +54,9 @@
                     }
                 },
                 "language": "haskell",
-                "level": "debug"
+                "level": "critical"
             },
-            "access_token": "\nwz\u0017"
+            "access_token": "G|z?="
         },
         {
             "data": {
@@ -65,17 +65,17 @@
                     "version": "0.3.1.0"
                 },
                 "platform": "linux",
-                "environment": "\u0003+(up!I",
+                "environment": "SXK7k;>",
                 "body": {
                     "message": {
                         "data": [],
-                        "body": "j+&e\"\u001eqz3pc,\u000elr\u0015+';\u0013\u0017ot\"_\t\u000bm\u0012"
+                        "body": "PkS{$2\u001ej7"
                     }
                 },
                 "language": "haskell",
                 "level": "error"
             },
-            "access_token": "fqoNui?+\u000fyAu\u0005>\u0013a"
+            "access_token": "r<cbYy\u0010G%\u0018C\u000e;YE#I\"\u001e\u000fD/\u0000k/\u001eN"
         },
         {
             "data": {
@@ -84,17 +84,17 @@
                     "version": "0.3.1.0"
                 },
                 "platform": "linux",
-                "environment": "V\u001csj\u001edR`T4?\u000eJ\u000cf",
+                "environment": "i^",
                 "body": {
                     "message": {
                         "data": [],
-                        "body": "\u00138=\u0008]\u00030"
+                        "body": "F[n"
                     }
                 },
                 "language": "haskell",
-                "level": "error"
+                "level": "info"
             },
-            "access_token": ".=#\n$\rD4 /1*c *O"
+            "access_token": ""
         }
     ]
 }
